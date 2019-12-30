@@ -1,4 +1,4 @@
-﻿#include "src/RPiIBus.hpp"
+﻿#include "src/RPiIBus.h"
 #include <unistd.h>
 #include <wiringPi.h>
 int main()
